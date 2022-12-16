@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Poulefase</string>
+    <string name="miniclip_logo">logo</string>
+    <string name="welcome_text">Welcome to the World Cup pool of the year</string>
+    <string name="start_pool">Start Pool</string>
+    <string name="wins">Wins</string>
+    <string name="losses">Losses</string>
+    <string name="draw">Draw</string>
+    <string name="goals_for">Goals For</string>
+    <string name="goals_against">Goals Against</string>
+    <string name="points">Points</string>
+    <string name="play_games">Games played</string>
+    <string name="pool_wk">Pool WK 2022</string>
+    <string name="teams">Teams</string>
+    <string name="w">W</string>
+    <string name="l">L</string>
+    <string name="d">D</string>
+    <string name="gf">GF</string>
+    <string name="ga">GA</string>
+    <string name="p">P</string>
+    <string name="pg">PG</string>
+    <string name="play_game">Play Game</string>
+    <string name="next_game">Next Game:</string>
+    <string name="vs">VS</string>
+    <string name="strength">Strength</string>
+    <string name="s">S</string>
+    <string name="no_game">There is no more game</string>
+    <string name="explanation_pool">Explanation of abbreviations in the pools</string>
+    <string name="oke">Oke</string>
+    <string name="played_games">Played games</string>
+</resources>
